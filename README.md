@@ -22,6 +22,18 @@
 - 直播上新类：品牌上新、直播预告、活动时间、系列发布
 - 访谈综艺类：人物故事、职场话题、采访、社会观察
 
+## 测试效果展示
+
+以下为使用该 Skill 输出提示词后生成的部分封面测试效果。
+
+| 教程干货类 | 教程流程类 | AI 访谈综艺类 | 职场访谈综艺类 |
+| --- | --- | --- | --- |
+| <img src="./assets/examples/tutorial-drygoods.png" width="220" alt="教程干货类封面示例"> | <img src="./assets/examples/tutorial-workflow.png" width="220" alt="教程流程类封面示例"> | <img src="./assets/examples/interview-ai-noise.png" width="220" alt="AI 访谈综艺类封面示例"> | <img src="./assets/examples/interview-variety.png" width="220" alt="职场访谈综艺类封面示例"> |
+
+| 旅行攻略类 | 生活方式 PLOG 类 | 穿搭杂志类 | 直播上新类 |
+| --- | --- | --- | --- |
+| <img src="./assets/examples/travel-guide.png" width="220" alt="旅行攻略类封面示例"> | <img src="./assets/examples/plog-lifestyle.png" width="220" alt="生活方式 PLOG 类封面示例"> | <img src="./assets/examples/fashion-magazine.png" width="220" alt="穿搭杂志类封面示例"> | <img src="./assets/examples/live-new-arrival.png" width="220" alt="直播上新类封面示例"> |
+
 ## 输出内容
 
 Skill 默认输出中文内容，包括：
